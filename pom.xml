@@ -44,6 +44,7 @@
         <module>kafka-quickstart</module>
         <module>kafka-avro-schema-quickstart</module>
         <module>kafka-bare-quickstart</module>
+        <module>kafka-cloud-event-quickstart</module>
         <module>kafka-streams-quickstart</module>
         <module>kogito-quickstart</module>
         <module>optaplanner-quickstart</module>
